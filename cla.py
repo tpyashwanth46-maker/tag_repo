@@ -7,8 +7,5 @@ print("new")
 print("base")
 print("new_added")
 print("cherry_baby")
-<<<<<<< Updated upstream
-print("sec_stash")
-=======
 print("stashing")
->>>>>>> Stashed changes
+print("nr")
